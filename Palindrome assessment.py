@@ -12,7 +12,7 @@ import pandas as pd
 
 #load data
 
-dataset=pd.read_excel("C:/Users/bless/Desktop/palindrom assessment/pone.0212445.s004.xlsx", skiprows=[0])
+dataset=pd.read_excel("C:/*", skiprows=[0])
 
 #data preview 
 dataset
